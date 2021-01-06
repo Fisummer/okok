@@ -1,3 +1,3 @@
 # okok
-[test to show](http://chrome://settings)
+[test to show](chrome://settings)
 [music](https://music.163.com)
