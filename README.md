@@ -1,3 +1,3 @@
 # okok
-[test to show](https://www.baidu.com)
+[test to show](chrome://settings)
 [music](https://music.163.com)
