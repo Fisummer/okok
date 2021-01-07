@@ -1,3 +1,3 @@
 # okok
-[test to show](https://www.bilibili.com/video/BV1Wt411v7xf?from=search&seid=3481764955371925120)
+[test to show](https://gate2home.com/Chinese-Keyboard)
 [music](https://music.163.com)
